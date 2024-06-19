@@ -1,2 +1,6 @@
 # homem-de-ferro-original
-sou eu mesmo o toni starki hehe
+Meu nome é Roberta
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
